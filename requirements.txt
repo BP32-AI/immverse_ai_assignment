@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pytesseract
+opencv-python
+Pillow
+numpy
+requests
+tqdm
+langchain
+langchain-community
+scikit-learn
