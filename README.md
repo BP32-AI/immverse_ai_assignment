@@ -84,8 +84,8 @@ immverse_ai_assignment/
 │   └── audio/
 │
 ├── sample_outputs/
-│   ├── sample_chat.txt
-│   └── sample_ocr.txt
+│   ├── image1.png
+│   └── image2.png
 │
 └── src/
     ├── config.py
@@ -97,10 +97,6 @@ immverse_ai_assignment/
     ├── llm.py
     ├── rag.py
     ├── chat.py
-    ├── utils.py
-    │
-    └── prompts/
-        └── qa_prompt.txt
 ```
 
 ---
