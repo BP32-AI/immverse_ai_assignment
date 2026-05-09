@@ -49,7 +49,7 @@ The system extracts text from manuscript images and enables grounded question-an
 # Folder Structure
 
 ```text
-repo/
+immverse_ai_assignment/
 │
 ├── README.md
 ├── architecture.md
